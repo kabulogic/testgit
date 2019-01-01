@@ -2,3 +2,4 @@ Initialization Git repository
 Something not important
 Modified again
 Git is a version control system
+Create a new branch is quick.
